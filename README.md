@@ -38,7 +38,7 @@ GCCによるC言語のプログラムのコンパイルと実行
 Teamsとgitからどちらからでも大丈夫です。
 
 Teams(星野研究室)  
-git:
+git:https://github.com/l36-hoshino/web-programming-learning-system
 
 #### フォルダー名：web-programing-learning-system
 
